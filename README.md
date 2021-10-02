@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaswat Panda</h1>
-<h3 align="center">Machine Learning Intern @Manastik | AI/ML Engineer | Game Developer | Deep Tech enthusiast</h3>
+<h3 align="center">AI-ML Intern at Wurth IT | AI/ML Engineer | Computer Vision(ary) | Game Developer | Deep Tech enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaswatpanda&label=Profile%20views&color=0e75b6&style=flat" alt="shaswatpanda" /> </p>
 
@@ -20,12 +20,12 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/panda_shaswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="panda_shaswat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shaswat-panda-438185191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaswat-panda-438185191/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/12137924/shaswat-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12137924/shaswat-panda" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/shaswatpanda/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shaswatpanda/account" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaswat-panda-438185191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shaswat-panda-438185191/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12137924/shaswat-panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/12137924/shaswat-panda" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/shaswatpanda/account" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/shaswatpanda/account" height="30" width="40" /></a>
 <a href="https://instagram.com/shaswat.panda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shaswat.panda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/user7212rf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user7212rf/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/pandashaswat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pandashaswat/" height="30" width="40" /></a>
+<a href="https://leetcode.com/user7212rf/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/user7212rf/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/pandashaswat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/pandashaswat/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
