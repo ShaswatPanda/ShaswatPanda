@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/panda_shaswat" target="blank"><img src="https://img.shields.io/twitter/follow/panda_shaswat?logo=twitter&style=for-the-badge" alt="panda_shaswat" /></a> </p>
 
-- 🔭 I’m currently working on [NeuroRehab from Manastik](https://gitlab.com/manastik/neurorehabilitation)
+- 🔭 I’m currently working on [Warehouse Detection - Wurth IT](https://github.com/ShaswatPanda/Wurth-Warehouse-Detection)
 
 - 🌱 I’m currently learning **Computer Vision and detection using OpenCV**
 
